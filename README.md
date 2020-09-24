@@ -1,4 +1,4 @@
-#PaymentGatewayIntegration
+# payment gateway integration(INSTAMOJO)
 A  Donation Website using Instamojo payment gateway.
 
 Website Link:https://sayanpaymentgate.000webhostapp.com
