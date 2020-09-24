@@ -1,0 +1,8 @@
+body {
+    background: linear-gradient(to left top, rgb(212, 240, 91), rgb(141, 127, 127)) fixed;
+  }
+  .resp{
+      color: red;
+      font-weight: bolder;
+  }
+ 
