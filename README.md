@@ -1,5 +1,5 @@
-# testing
-A Simple Donation Website using Instamojo payment gateway.
+#PaymentGatewayIntegration
+A  Donation Website using Instamojo payment gateway.
 
 Website Link:https://sayanpaymentgate.000webhostapp.com
 
